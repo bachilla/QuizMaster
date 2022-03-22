@@ -1,0 +1,20 @@
+<Player’s first name>
+<Player’s last name>
+<Number of questions in this file>
+<Question type: MC int points: value>
+<Question text>
+<Number of answers in the answer list>
+<List of possible answers for the question>
+...
+...
+...
+...
+...
+<Question answer>
+<Question type: SA int points: value>
+<Question text>
+<Question answer>
+<Question type: TF int points: 5>
+<Question text>
+<Question answer>
+<*End marker*>

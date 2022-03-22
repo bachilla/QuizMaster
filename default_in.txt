@@ -1,0 +1,20 @@
+John
+Smith
+3
+MC 10
+Who was the president of the USA in 1991?
+6
+(A) Richard Nixon
+(B) Gerald Ford
+(C) Jimmy Carter
+(D) Ronald Reagan
+(E) George Bush Sr.
+(F) Bill Clinton
+E
+SA 20
+What city hosted the 2004 Summer Olympics?
+Athens
+TF 5
+There exists birds that cannot fly. (true/false)
+true
+XXX
